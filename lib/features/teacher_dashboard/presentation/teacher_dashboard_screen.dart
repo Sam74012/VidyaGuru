@@ -230,7 +230,7 @@ class TeacherDashboardScreen extends ConsumerWidget {
                     onPressed: () {
                       _showRevokeConfirm(context, ref, teacherAvatar);
                     },
-                    child: const Text('Revoke', style: TextStyle(fontSize: 11)),
+                    child: const Text('Withdraw Consent', style: TextStyle(fontSize: 11)),
                   ),
                 ),
               ],

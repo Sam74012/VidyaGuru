@@ -18,7 +18,7 @@ VidyaGuru is built with **Flutter**, **Riverpod**, and **GoRouter**, designed fo
 To showcase the full capability during live judge evaluation, follow this demo path:
 
 1. **Launch App**: App opens on the **Home Screen** (pre-set to Bengali for the Innovation Challenge showcase).
-2. **Create New Lesson**: Tap **"নতুন পাঠ তৈরি করুন" (Create New Lesson)** on the Home Screen.
+2. **Create New Lesson**: Tap **Create New Lesson** on the Home Screen.
 3. **Upload Material**: Select **Upload PDF / Doc** (or tap **Snap Page** / paste custom notes). Tap **"Extract Concepts with AI Parser"**.
 4. **Choose Teacher**: Select preset avatar **Dr. Ananya Roy** (*Senior Physics Faculty*).
 5. **Language & Tone**: Select **বাংলা (Bengali)** and **Warm Teacher** style.
@@ -150,5 +150,5 @@ flutter run
 
 ## 📜 License & Acknowledgments
 
-Developed for the **Government Innovation Challenge (Education & Skill Development)**.
+Developed for the **Seva First Innovation Challenge (Education & Skill Development)**.
 Built with Flutter & Google Fonts (Noto Sans family for Indic scripts).
